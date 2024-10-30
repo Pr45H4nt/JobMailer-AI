@@ -1,0 +1,16 @@
+Dear Hiring Team at Ambarkaar Software Pvt. Ltd.,
+
+I am writing to express my interest in any available backend or Python internship or entry-level positions at Ambarkaar Software.
+
+As a current Information Technology undergraduate with a focus on backend development and Python programming, I am confident that my skills and experience align well with your company's needs. My key skills include Python, Django, Django Rest Framework, web scraping (using Scrapy, Selenium, and BeautifulSoup), and data analysis (using Numpy, Pandas, and Matplotlib).
+
+I have a strong foundation in DSA and have demonstrated my practical abilities through notable projects such as my Call Record API, Social Media Web App, IMDB Scraper, and Terminal Text Editor. Additionally, I have freelance experience in data scraping at Parsedom and have previously interned in software development.
+
+I am eager to contribute my technical capabilities to your team and further develop my skills in a professional environment. My GitHub account (https://www.github.com/pr45h4nt) and website (https://www.prashant69.com.np) provide additional insights into my work. I am also active on LinkedIn (https://www.linkedin.com/in/prashantpaneru/).
+
+I am available for an interview at your earliest convenience and would appreciate the opportunity to discuss my qualifications further.
+
+Thank you for your time and consideration.
+
+Sincerely,
+Prashant Paneru
